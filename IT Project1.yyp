@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "7190d27c-33e9-4ef3-b8ff-4208cc96727a",
+            "Value": {
+                "id": "eefc6f5d-6be8-4e0e-9a4e-5498818de2fc",
+                "resourcePath": "sprites\\sPedestal\\sPedestal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7374c08d-b9ff-499a-91c0-c5405f97ec58",
             "Value": {
                 "id": "ac5b0a7f-db49-4ff4-a23c-9eec357f9644",
@@ -575,11 +583,27 @@
             }
         },
         {
+            "Key": "ef10f012-3e25-4fcb-8f6c-19056f45f5af",
+            "Value": {
+                "id": "cde44fe6-837d-4016-8dff-4f3923bd200a",
+                "resourcePath": "sprites\\sStaffPick\\sStaffPick.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f0a01015-eea1-47f3-8320-36d0771c104d",
             "Value": {
                 "id": "c3ae72e7-d707-4eff-8061-6fa5b51da5e0",
                 "resourcePath": "views\\f0a01015-eea1-47f3-8320-36d0771c104d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f0da156b-5f7d-407e-aab3-990bfd2ba77e",
+            "Value": {
+                "id": "51267ef3-d45c-46ce-913b-6e6713cf1c5b",
+                "resourcePath": "objects\\oStaffPick\\oStaffPick.yy",
+                "resourceType": "GMObject"
             }
         },
         {
