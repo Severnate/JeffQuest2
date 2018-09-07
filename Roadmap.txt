@@ -1,0 +1,6 @@
+1. Implement a circular physics object
+2. Find a tileset for stone and implement it
+3. Code moving platforms
+4. Add shooting enemies
+5. Add a death animation
+6. Add breaking platform mechanic
