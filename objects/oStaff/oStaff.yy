@@ -2,7 +2,7 @@
     "id": "cae0b15b-580c-4b38-a2ec-df613d901242",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oGun",
+    "name": "oStaff",
     "eventList": [
         {
             "id": "823a8d48-7d35-4a31-af0e-65f5aa686ef8",

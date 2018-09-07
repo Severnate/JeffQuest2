@@ -256,7 +256,7 @@
         "e41f9f20-9f3b-49b5-a89b-f59b5fc3a53f",
         "8728c4b0-ee2b-45d5-aa51-4ad8d825cc69",
         "310c06f7-1392-464e-b9df-ec2de8067279",
-        "795a56f2-5e98-4adb-8007-efa317125d0c"
+        "7125d6d3-95a4-4b5f-8292-076b26dd923c"
     ],
     "IsDnD": false,
     "layers": [
@@ -300,7 +300,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_249AFE9","id": "795a56f2-5e98-4adb-8007-efa317125d0c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_249AFE9","objId": "cae0b15b-580c-4b38-a2ec-df613d901242","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 640,"y": 384}
+
             ],
             "layers": [
 
@@ -356,7 +356,8 @@
 {"name": "inst_69F4EB39","id": "37b29edd-11f6-467a-b18e-c892f8a1d2e1","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_69F4EB39.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_69F4EB39","objId": "0fa34b4a-9055-43d2-bfcb-445681bee193","properties": [{"id": "99dd6af5-1110-4848-83cd-3525b9d293a9","modelName": "GMOverriddenProperty","objectId": "0fa34b4a-9055-43d2-bfcb-445681bee193","propertyId": "873cbe56-1327-4e84-be86-a0576fa3efef","mvc": "1.0","value": "This fallen log is in the way! Press [space] to jump over it!"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1728,"y": 576},
 {"name": "inst_5711044A","id": "43a10d37-2ec8-46d6-9307-992e401e3dcc","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5711044A","objId": "0fa34b4a-9055-43d2-bfcb-445681bee193","properties": [{"id": "3144f861-b7b9-414e-a343-380601c218f5","modelName": "GMOverriddenProperty","objectId": "0fa34b4a-9055-43d2-bfcb-445681bee193","propertyId": "873cbe56-1327-4e84-be86-a0576fa3efef","mvc": "1.0","value": "Twigs over holes like this are fragile!\\nStepping on them would be dangerous\\nJump over instead"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 384,"y": 704},
 {"name": "inst_2AF11B21","id": "3aaf8c70-2d3d-4ef9-bc08-c6ed82289c6f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2AF11B21","objId": "0fa34b4a-9055-43d2-bfcb-445681bee193","properties": [{"id": "452a68e9-fc6f-4e3b-b78f-47f56e8511f7","modelName": "GMOverriddenProperty","objectId": "0fa34b4a-9055-43d2-bfcb-445681bee193","propertyId": "873cbe56-1327-4e84-be86-a0576fa3efef","mvc": "1.0","value": "Welcome to JeffQuest!\\nUse A to move left, D to move right\\nand Space to jump!"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 160,"y": 640},
-{"name": "inst_14612B43","id": "23a774cd-b5ce-405a-82e6-4bd959918d80","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_14612B43","objId": "0fa34b4a-9055-43d2-bfcb-445681bee193","properties": [{"id": "801c4602-26a4-484d-be98-e7eebf144a26","modelName": "GMOverriddenProperty","objectId": "0fa34b4a-9055-43d2-bfcb-445681bee193","propertyId": "873cbe56-1327-4e84-be86-a0576fa3efef","mvc": "1.0","value": "Your lost staff is up on that island!\\nTry and jump up there without\\nbeing hurt by the angry goblin!"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 864,"y": 640}
+{"name": "inst_14612B43","id": "23a774cd-b5ce-405a-82e6-4bd959918d80","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_14612B43","objId": "0fa34b4a-9055-43d2-bfcb-445681bee193","properties": [{"id": "801c4602-26a4-484d-be98-e7eebf144a26","modelName": "GMOverriddenProperty","objectId": "0fa34b4a-9055-43d2-bfcb-445681bee193","propertyId": "873cbe56-1327-4e84-be86-a0576fa3efef","mvc": "1.0","value": "Your lost staff is up on that island!\\nTry and jump up there without\\nbeing hurt by the angry goblin!"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 864,"y": 640},
+{"name": "inst_430CD51D","id": "7125d6d3-95a4-4b5f-8292-076b26dd923c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_430CD51D","objId": "f0da156b-5f7d-407e-aab3-990bfd2ba77e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 629,"y": 382}
             ],
             "layers": [
 
@@ -730,10 +731,11 @@
         },
         {
             "__type": "GMRAssetLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Log",
+            "name": "Sprites",
             "id": "1250f7a0-7cbc-46f0-8430-a588a6480d40",
             "assets": [
-{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_286273C9","id": "b5d4d565-eb8d-4879-9645-d7f464c7b780","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1.3125,"scaleY": 1.34375,"mvc": "1.0","spriteId": "51b9d763-6ae5-4f03-b2dd-a233b6fe4038","userdefined_animFPS": false,"x": 1793,"y": 580}
+{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_286273C9","id": "b5d4d565-eb8d-4879-9645-d7f464c7b780","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1.3125,"scaleY": 1.34375,"mvc": "1.0","spriteId": "51b9d763-6ae5-4f03-b2dd-a233b6fe4038","userdefined_animFPS": false,"x": 1793,"y": 580},
+{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_2ED2A2D9","id": "bbd16ab9-c015-49de-8dbe-69af6bf8ec37","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1.842105,"scaleY": 2,"mvc": "1.0","spriteId": "7190d27c-33e9-4ef3-b8ff-4208cc96727a","userdefined_animFPS": false,"x": 628,"y": 409}
             ],
             "depth": 700,
             "grid_x": 32,
