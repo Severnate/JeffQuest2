@@ -15,16 +15,6 @@
             "m_owner": "2a0d5217-cae3-4946-a5eb-69752e6586b6"
         },
         {
-            "id": "c9e4b5d8-a028-42e4-907b-ae8aa3005513",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "2a0d5217-cae3-4946-a5eb-69752e6586b6"
-        },
-        {
             "id": "005bd6e6-f869-41dd-91e0-844714a0738c",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -37,7 +27,7 @@
     ],
     "maskSpriteId": "f9ba2365-ffcd-4184-96ce-29d5174a36fd",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "1db942ac-2d80-4d94-8a41-a2586ebefdbc",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -106,34 +96,6 @@
             "resourceFilter": 1023,
             "value": "walksp",
             "varName": "hsp",
-            "varType": 0
-        },
-        {
-            "id": "4b950f97-30d3-4db6-b1ae-ebd4db5c65d5",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "3",
-            "varName": "hp",
-            "varType": 0
-        },
-        {
-            "id": "cd9a06c5-a745-4f59-a2eb-9132c9ff4b6a",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "flash",
             "varType": 0
         },
         {

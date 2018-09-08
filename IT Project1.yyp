@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "1db942ac-2d80-4d94-8a41-a2586ebefdbc",
+            "Value": {
+                "id": "b5286125-3f3e-46dc-a607-f9af4cea902f",
+                "resourcePath": "objects\\pShootable\\pShootable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "21a40924-8eaa-42ce-a714-7e156daa3fa8",
             "Value": {
                 "id": "acd792b1-b01c-486c-a8fe-36953f93f4c2",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "3fb23490-fe3d-466a-8c93-91dcc8ab8ba8",
+            "Value": {
+                "id": "79161c7b-1bff-4d2d-8cf3-ed3728d2c685",
+                "resourcePath": "objects\\oCrate\\oCrate.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4871fa74-ee3d-43c6-9a72-1fd6e616f2b1",
             "Value": {
                 "id": "a831627e-9eb0-4d20-9808-f85e69b160ac",
@@ -194,7 +210,7 @@
             "Key": "51b9d763-6ae5-4f03-b2dd-a233b6fe4038",
             "Value": {
                 "id": "45c59f7d-9100-4eb6-b36d-f02f163a1b40",
-                "resourcePath": "sprites\\sLog\\sLog.yy",
+                "resourcePath": "sprites\\sCrate\\sCrate.yy",
                 "resourceType": "GMSprite"
             }
         },

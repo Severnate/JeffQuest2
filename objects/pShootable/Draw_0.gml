@@ -1,3 +1,4 @@
+/// @description hitflash
 draw_self();
 
 if (flash > 0)
