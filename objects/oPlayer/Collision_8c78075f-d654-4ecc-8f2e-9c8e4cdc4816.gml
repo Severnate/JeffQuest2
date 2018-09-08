@@ -1,5 +1,5 @@
 /// @description Die
-with (oGun) instance_destroy();
+with (oStaff) instance_destroy();
 instance_change(oDeadP,true);
 
 direction = point_direction(other.x,other.y,x,y);
