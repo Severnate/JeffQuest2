@@ -8,5 +8,6 @@ if (hp <=0)
 		if (sign(hsp) !=0) image_xscale = sign(hsp) * other.size;
 		image_yscale = other.size;
 	}
+	with (mygun) instance_destroy();
 	instance_destroy();
 }
