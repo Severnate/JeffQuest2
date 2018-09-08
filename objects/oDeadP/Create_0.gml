@@ -7,3 +7,5 @@ image_speed = 0;
 image_index = 0;
 game_set_speed(30,gamespeed_fps);
 with (oCamera) follow = other.id;
+audio_play_sound(snPDeath,19,false);
+audio_stop_sound(Megalovania);

@@ -57,6 +57,11 @@ if (!place_meeting(x,y+1,oWall))
 }
 else
 {
+	if (sprite_index == sPlayerA)
+	{
+		audio_sound_pitch(snLanding,random_range(0.8,1.2))
+		audio_play_sound(snLanding,4,false)
+	}
 	canjump = 10
 	image_speed = 1;
 	if (hsp == 0)

@@ -22,6 +22,7 @@ if (menu_control)
 			menu_committed = menu_cursor;
 			ScreenShake(4,30);
 			menu_control = false;
+			audio_play_sound(snDeath,10,false);
 		}
 		
 		var mouse_y_gui = device_mouse_y_to_gui(0);
