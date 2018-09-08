@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "26b647b1-7fe3-4962-8729-c9826e0db504",
+            "Value": {
+                "id": "534e7bb7-bd72-4b9a-803f-371eb89d5b15",
+                "resourcePath": "objects\\oDust\\oDust.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "271cf669-2ce5-4609-8329-ae21239080c2",
             "Value": {
                 "id": "c267e429-8c1a-4877-9ed6-233bbf6823ce",
