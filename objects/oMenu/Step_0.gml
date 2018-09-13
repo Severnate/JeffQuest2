@@ -22,7 +22,7 @@ if (menu_control)
 			menu_committed = menu_cursor;
 			ScreenShake(4,30);
 			menu_control = false;
-			audio_stop_sound(Megalovania);
+			audio_stop_sound(sMusicB);
 			audio_play_sound(snDeath,10,false);
 		}
 		

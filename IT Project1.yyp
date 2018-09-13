@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "4b13b241-a117-4d54-ac70-430655ab8cca",
+            "Value": {
+                "id": "77cbe058-4fb9-4abd-b7ba-629b86976841",
+                "resourcePath": "sounds\\sMusicB\\sMusicB.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4b690f30-c565-4c30-b3cd-d60b2634f74d",
             "Value": {
                 "id": "1d808622-59a3-49a0-8856-2c9193ded150",
@@ -308,14 +316,6 @@
                 "id": "493add38-5548-4244-b08a-d9f29fa25be5",
                 "resourcePath": "sprites\\sDirt\\sDirt.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "6ba81b0a-528a-44df-bd32-8547f16eda73",
-            "Value": {
-                "id": "c89617a2-4538-42da-acff-9ee495e92e58",
-                "resourcePath": "sounds\\Megalovania\\Megalovania.yy",
-                "resourceType": "GMSound"
             }
         },
         {

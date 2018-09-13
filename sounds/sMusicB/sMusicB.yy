@@ -1,8 +1,8 @@
 {
-    "id": "6ba81b0a-528a-44df-bd32-8547f16eda73",
+    "id": "4b13b241-a117-4d54-ac70-430655ab8cca",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "Megalovania",
+    "name": "sMusicB",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
