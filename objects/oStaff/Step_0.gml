@@ -29,8 +29,9 @@ if (mouse_check_button(mb_right)) and (firingdelay < 0)
 	firingdelay = 0;
 	count=0
 	ScreenShake(2,10);
-	audio_sound_pitch(snShoot,random_range(0.5,0.8));
-	audio_play_sound(snShoot,5,false);
+	audio_sound_pitch(snFlame,random_range(0.1,0.5));
+	audio_play_sound(snFlame,5,false);
+	
 	with (instance_create_layer(x,y,"Bullets",oFlamethrower))
 	{
 		spd = 0;

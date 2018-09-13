@@ -559,6 +559,14 @@
             }
         },
         {
+            "Key": "b5e7f9c0-6530-4a53-92f5-d77c40fa5705",
+            "Value": {
+                "id": "17393e8e-41c3-4a48-be11-5ab85d8745d8",
+                "resourcePath": "sounds\\snFlame\\snFlame.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "b5f4fac3-1f5a-4afb-a0b6-8d3d5bdd18f1",
             "Value": {
                 "id": "7d47b0bd-ea0c-4614-ba5f-e0ea12c36639",

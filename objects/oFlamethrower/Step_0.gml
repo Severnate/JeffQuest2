@@ -26,5 +26,6 @@ if (place_meeting(x,y,oWall)) and (image_index !=0)
  if count>1
 	{
 	instance_destroy(oFlamethrower);
+	audio_stop_sound(snFlame)
 	}
 
