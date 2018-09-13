@@ -8,10 +8,11 @@ firingdelay --;
 recoil = max(0,recoil - 1);
 count=count+1
 
-if (mouse_check_button(mb_left)) and (firingdelay < 0)
+if (mouse_check_button(mb_left)) and (firingdelay < 0) and (mana > 0)
 {
 	recoil = 6;
 	firingdelay = 20;
+	mana = mana - 5;
 	ScreenShake(2,10);
 	audio_sound_pitch(snShoot,random_range(0.8,1.2));
 	audio_play_sound(snShoot,5,false);
