@@ -8,11 +8,25 @@ firingdelay --;
 recoil = max(0,recoil - 1);
 count=count+1
 
-if (mouse_check_button(mb_left)) and (firingdelay < 0) and (mana > 0)
+if (mana = 0)
+	{
+	count=0;
+		if (count>60)
+		{
+		mana=mana+0.1
+		}
+	}
+else
+	{
+	mana=mana+0.1
+	}	
+
+
+if (mouse_check_button(mb_left)) and (firingdelay < 0) and (mana > 5)
 {
 	recoil = 6;
 	firingdelay = 20;
-	mana = mana - 5;
+	mana = mana - 1.7;
 	ScreenShake(2,10);
 	audio_sound_pitch(snShoot,random_range(0.8,1.2));
 	audio_play_sound(snShoot,5,false);
@@ -24,11 +38,12 @@ if (mouse_check_button(mb_left)) and (firingdelay < 0) and (mana > 0)
 	}
 }
 
-if (mouse_check_button(mb_right)) and (firingdelay < 0)
+if (mouse_check_button(mb_right)) and (firingdelay < 0) and (mana > 0)
 {
 	recoil = 6;
 	firingdelay = 0;
-	count=0
+	count=0;
+	mana = mana - 2;
 	ScreenShake(2,10);
 	audio_sound_pitch(snFlame,random_range(0.1,0.5));
 	audio_play_sound(snFlame,5,false);

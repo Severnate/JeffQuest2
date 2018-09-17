@@ -41,7 +41,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "3bae7312-93b8-4cc1-8f31-9a4a4a72cefc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "mana",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "2dd87626-f350-47d3-9770-119e3c565b30",
     "visible": true
