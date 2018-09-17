@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "35e4049f-c3ac-4bac-a69f-106f8b70cff3",
+            "Value": {
+                "id": "53c23c34-2b2a-40c3-ace2-af1e60b5ada4",
+                "resourcePath": "sprites\\bck_Grey_Tiles\\bck_Grey_Tiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3fb23490-fe3d-466a-8c93-91dcc8ab8ba8",
             "Value": {
                 "id": "79161c7b-1bff-4d2d-8cf3-ed3728d2c685",
@@ -243,6 +251,14 @@
             "Value": {
                 "id": "0d1caa00-b4e4-4f4e-97a3-dd23e57a7409",
                 "resourcePath": "sprites\\sLeaves\\sLeaves.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "45a71441-2ab0-4a40-aa11-66a6619892e1",
+            "Value": {
+                "id": "f268222c-f0e1-4719-974d-16bbbb91ea9c",
+                "resourcePath": "sprites\\spr_WALLS_Ice\\spr_WALLS_Ice.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -519,11 +535,27 @@
             }
         },
         {
+            "Key": "952c4104-1572-4ce1-9a37-51cb95a1d7e7",
+            "Value": {
+                "id": "b40dd145-6b16-408e-a41a-0882190f5e82",
+                "resourcePath": "sprites\\spr_WALLS_Grey\\spr_WALLS_Grey.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "95909503-aa73-42f3-945b-79a06149b6ab",
             "Value": {
                 "id": "74558711-52b5-4383-a65d-e5f704d56d90",
                 "resourcePath": "sprites\\sMana\\sMana.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "96ea411f-bb47-4d7c-b390-8e5ab483d82a",
+            "Value": {
+                "id": "65e191eb-aefb-4683-9b56-187c0abe0eba",
+                "resourcePath": "tilesets\\bck_Grey_Tiles_tileset\\bck_Grey_Tiles_tileset.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -580,6 +612,14 @@
                 "id": "6bbab0ce-5523-4294-a613-89a51905a8d9",
                 "resourcePath": "objects\\oHitSpark\\oHitSpark.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a36624c1-644a-4e3e-a611-e68ba36ece95",
+            "Value": {
+                "id": "8fbc8bec-e2a8-4865-9398-a3d46cd811ef",
+                "resourcePath": "extensions\\Fantasy_Walls\\Fantasy_Walls.yy",
+                "resourceType": "GMExtension"
             }
         },
         {
@@ -828,6 +868,22 @@
                 "id": "330f2ff4-a8e0-4b1d-9b05-9bf67cc588ad",
                 "resourcePath": "objects\\oFlamethrower\\oFlamethrower.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e4402f69-09ae-48a0-8fd5-aa7c9fc0e046",
+            "Value": {
+                "id": "1e193fd9-0e7f-4d9e-bd45-465a6b9c259b",
+                "resourcePath": "sprites\\bck_Ice_Tiles\\bck_Ice_Tiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e4c6dc29-1739-45c3-9c1f-1b1d8c75236d",
+            "Value": {
+                "id": "9ca2de25-ebb0-4b98-9e96-66c642c882bc",
+                "resourcePath": "tilesets\\bck_Ice_Tiles_tileset\\bck_Ice_Tiles_tileset.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
