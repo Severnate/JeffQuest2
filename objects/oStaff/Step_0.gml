@@ -7,20 +7,29 @@ image_angle = point_direction(x,y,mouse_x,mouse_y);
 firingdelay --;
 recoil = max(0,recoil - 1);
 count=count+1
-
-if (mana = 0)
+if (mana < 0)
+{
+	mana=0
+}
+if (mana <= 0)
 	{
-	count=0;
-		if (count>60)
-		{
-		mana=mana+0.1
-		}
+	timervar++;		
 	}
 else
 	{
 	mana=mana+0.1
 	}	
 
+if (timervar>60)
+		{
+		mana=mana+0.1
+		timervar=0;
+		}
+
+if (mana > 50)
+{
+	mana = 50
+}
 
 if (mouse_check_button(mb_left)) and (firingdelay < 0) and (mana > 5)
 {
